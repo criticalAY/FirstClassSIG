@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstClass</string>
+    <string name="smart_class">Click button to roll dice</string>
+    <string name="roll_dice">Roll dice</string>
+</resources>
